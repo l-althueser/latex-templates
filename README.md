@@ -1,2 +1,2 @@
 # thesis templates
-Public versions of my own templates for theses.
+Public versions of my own templates for LaTeX.
